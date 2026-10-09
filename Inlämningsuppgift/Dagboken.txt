@@ -1,0 +1,23 @@
+﻿Mitt första problem.
+Dag 1 
+Fick errorkod CS1513 och kunde verkligen inte hitta felet. Tills att jag såg att jag hade skrivit ) istället för }
+
+Eftersom datorn räknar från 0 (index 0 är första platsen), men personalen vill se 1 till 100, lägger vi till +1 här.
+
+Dag 2:
+Ett väldigt udda error jag fick var  CS1513 även om jag skrev koden korrekt med }. Här var jag tvungen att googla fram svaret då med min grundliga kunskap, gick inte att lösa.
+
+Jag fick också ett bugg där det stod att namnet Console inte existerade och systemet inte visste vad Console.Clear() betydde. Fick ta bort och skriva in den igen och då funkade det?
+Dag 3
+
+Jag fick igång Prag Parkeringen nu utan några error koder. Det jag inte lyckades med nu är att jag endast kunde klicka mig på 1 och inte 2-4 I consollen. Insåg hur enkelt felet var, hade bara lagt in för siffran 1 och inte de andra,
+
+Fick även error på grund att jag hade glömt if eller då else I detta fall som jag använde tillslut. Problemet ledde till att datorn inte riktigt fattade vad jag ville göra.
+
+Mitt största problem kom nu efter att ha fått till de ovanför, nu har jag problem med att lägga till platsnummer och hittade ingen lösning för att ha kvar platsnummer så tog bort det och la endast till bokstav + siffra istället och då gick det igenom  
+
+Dag 4
+
+När jag läste igenom instruktionerna igen för uppgiften så insåg att jag inte hade lagt in så att konsollen frågar efter bil eller MC så då var det bara att gå tillbaka och komplettera det.  
+
+Jag snyggade även till konsolen, så nu är "Ledig" på samma rader även om det är siffran 9 eller siffran 10. 
