@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Inlämningsuppgift/Inlämningsuppgift.csproj" />
+  <Project Path="test/test.csproj" Id="cbfa2bb2-9aa1-4e9f-bda2-8aff7a54289b" />
+</Solution>
